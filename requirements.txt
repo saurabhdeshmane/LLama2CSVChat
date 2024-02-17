@@ -1,0 +1,12 @@
+streamlit
+streamlit_chat
+pypdf
+langchain==0.1.6
+langchain-community==0.0.19
+langchain-core==0.1.23
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
